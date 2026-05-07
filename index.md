@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog!
+title: blog title goes here
 ---
 
-###### let's do some testing to see how it works!
-works?
+###### checking it then
+hi hi
